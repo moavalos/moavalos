@@ -1,4 +1,4 @@
-<h3 style="font-family:verdana;"> ❀ me dicen mo <h4>(✿◠‿◠)</h4> </h3>
-<h3 style="font-family:verdana;"> ❀ cuenta para cosas del trabajo y facultad </h3>
-<h3 style="font-family:verdana;"> ❀ cualquier cosa escribime al discord </h3>
-<img src="michi.jpg" alt="">
+<h3 style="font-family:verdana;"> ❀ me dicen mo =^.^=</h3>
+<h3 style="font-family:verdana;"> ❀ repositorios para cosas del trabajo o facultad </h3>
+<h3 style="font-family:verdana;"> ❀ cualquier cosa escribime al discord $mo#2329</h3>
+<img src="michi.jpg" alt="" width="500" height="600"  text-align: center>
